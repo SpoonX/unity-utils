@@ -1,0 +1,20 @@
+{
+  "name": "studio.spoonx.unity-utils",
+  "version": "0.0.1",
+  "displayName": "Unity Utils",
+  "description": "Some standard utilities that are useful for most projects.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "Utils",
+    "Tools",
+    "Editor"
+  ],
+  "author": {
+    "name": "RWOverdijk",
+    "email": "wesley@spoonx.studio",
+    "url": "https://spoonx.studio"
+  }
+}
