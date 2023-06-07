@@ -10,7 +10,7 @@ namespace Spoonx.Timing
 
         private int _ups;
 
-        public bool Run(float updatesPerSecond)
+        public bool Run(int updatesPerSecond)
         {
             if (_ups != updatesPerSecond)
             {
